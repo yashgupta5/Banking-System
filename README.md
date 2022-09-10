@@ -1,6 +1,6 @@
-# Bank-Management-System
+# Banking-System
 
-// Banking System
+
 #include<iostream>
 #include<fstream>
 #include<cstdlib>
